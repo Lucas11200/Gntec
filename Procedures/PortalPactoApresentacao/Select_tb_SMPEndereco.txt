@@ -1,0 +1,10 @@
+SELECT *
+	/*IdDevedor,
+	Logradouro,
+	Numero,
+	Complemento,
+	Bairro,
+	Municipio,
+	UF,
+	CEP*/
+  FROM dbo.SMP_Endereco --where IdDevedor = '91108'
